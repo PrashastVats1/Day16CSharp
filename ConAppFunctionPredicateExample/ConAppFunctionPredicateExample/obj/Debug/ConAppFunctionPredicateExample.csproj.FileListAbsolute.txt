@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\bin\Debug\ConAppFunctionPredicateExample.exe.config
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\bin\Debug\ConAppFunctionPredicateExample.exe
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\bin\Debug\ConAppFunctionPredicateExample.pdb
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\obj\Debug\ConAppFunctionPredicateExample.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\obj\Debug\ConAppFunctionPredicateExample.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\obj\Debug\ConAppFunctionPredicateExample.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\obj\Debug\ConAppFunctionPredicateExample.exe
+D:\Mphasis\Live Session\Day16\ConAppFunctionPredicateExample\ConAppFunctionPredicateExample\obj\Debug\ConAppFunctionPredicateExample.pdb

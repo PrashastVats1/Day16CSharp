@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\bin\Debug\ConAPpEvent.exe.config
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\bin\Debug\ConAPpEvent.exe
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\bin\Debug\ConAPpEvent.pdb
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\obj\Debug\ConAPpEvent.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\obj\Debug\ConAPpEvent.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\obj\Debug\ConAPpEvent.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\obj\Debug\ConAPpEvent.exe
+D:\Mphasis\Live Session\Day16\ConAPpEvent\ConAPpEvent\obj\Debug\ConAPpEvent.pdb

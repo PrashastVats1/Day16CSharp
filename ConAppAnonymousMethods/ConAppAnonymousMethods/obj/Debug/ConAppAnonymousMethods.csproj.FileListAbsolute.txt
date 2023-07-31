@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\bin\Debug\ConAppAnonymousMethods.exe.config
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\bin\Debug\ConAppAnonymousMethods.exe
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\bin\Debug\ConAppAnonymousMethods.pdb
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\obj\Debug\ConAppAnonymousMethods.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\obj\Debug\ConAppAnonymousMethods.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\obj\Debug\ConAppAnonymousMethods.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\obj\Debug\ConAppAnonymousMethods.exe
+D:\Mphasis\Live Session\Day16\ConAppAnonymousMethods\ConAppAnonymousMethods\obj\Debug\ConAppAnonymousMethods.pdb
